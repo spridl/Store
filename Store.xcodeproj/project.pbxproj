@@ -13,6 +13,7 @@
 		95CEDA1D27EF0A1500332642 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95CEDA1B27EF0A1500332642 /* Main.storyboard */; };
 		95CEDA1F27EF0A1500332642 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95CEDA1E27EF0A1500332642 /* Assets.xcassets */; };
 		95CEDA2227EF0A1500332642 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95CEDA2027EF0A1500332642 /* LaunchScreen.storyboard */; };
+		95CEDA4A27F087C400332642 /* CartTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95CEDA4927F087C400332642 /* CartTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		95CEDA1E27EF0A1500332642 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95CEDA2127EF0A1500332642 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95CEDA2327EF0A1500332642 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95CEDA4927F087C400332642 /* CartTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				95CEDA1727EF0A1500332642 /* SceneDelegate.swift */,
 				95CEDA1927EF0A1500332642 /* ViewController.swift */,
 				95CEDA1B27EF0A1500332642 /* Main.storyboard */,
+				95CEDA4927F087C400332642 /* CartTableViewController.swift */,
 				95CEDA1E27EF0A1500332642 /* Assets.xcassets */,
 				95CEDA2027EF0A1500332642 /* LaunchScreen.storyboard */,
 				95CEDA2327EF0A1500332642 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95CEDA1A27EF0A1500332642 /* ViewController.swift in Sources */,
+				95CEDA4A27F087C400332642 /* CartTableViewController.swift in Sources */,
 				95CEDA1627EF0A1500332642 /* AppDelegate.swift in Sources */,
 				95CEDA1827EF0A1500332642 /* SceneDelegate.swift in Sources */,
 			);
